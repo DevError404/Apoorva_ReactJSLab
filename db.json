@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "payeeName": "Kirti",
+      "product": "Bike Repair",
+      "price": 1000,
+      "setDate": "2022-10-07",
+      "id": 1
+    },
+    {
+      "payeeName": "Kirti",
+      "product": "Movie",
+      "price": 1104,
+      "setDate": "2022-10-05",
+      "id": 2
+    },
+    {
+      "payeeName": "Apoorva",
+      "product": "Vegetables",
+      "price": 366,
+      "setDate": "2022-10-01",
+      "id": 3
+    },
+    {
+      "payeeName": "Kirti",
+      "product": "Water",
+      "price": 40,
+      "setDate": "2022-10-02",
+      "id": 4
+    },
+    {
+      "payeeName": "Apoorva",
+      "product": "Grocery",
+      "price": 192,
+      "setDate": "2022-10-03",
+      "id": 5
+    },
+    {
+      "payeeName": "Apoorva",
+      "product": "Rice Bag",
+      "price": 2000,
+      "setDate": "2022-10-05",
+      "id": 6
+    },
+    {
+      "payeeName": "Apoorva",
+      "product": "Internet Bills",
+      "price": 1200,
+      "setDate": "2022-10-06",
+      "id": 7
+    },
+    {
+      "payeeName": "Kirti",
+      "product": "Electricity Bill",
+      "price": 724,
+      "setDate": "2022-10-10",
+      "id": 8
+    },
+    {
+      "payeeName": "Apoorva",
+      "product": "Water",
+      "price": 40,
+      "setDate": "2022-10-05",
+      "id": 9
+    },
+    {
+      "payeeName": "Kirti",
+      "product": "Water",
+      "price": 40,
+      "setDate": "2022-10-06",
+      "id": 10
+    },
+    {
+      "payeeName": "Kirti",
+      "product": "Plumbing work",
+      "price": 250,
+      "setDate": "2022-10-05",
+      "id": 11
+    },
+    {
+      "payeeName": "Kirti",
+      "product": "Tubelight",
+      "price": 149,
+      "setDate": "2022-10-01",
+      "id": 12
+    },
+    {
+      "payeeName": "Apoorva",
+      "product": "LPG",
+      "price": 1000,
+      "setDate": "2022-10-05",
+      "id": 13
+    },
+    {
+      "payeeName": "Kirti",
+      "product": "dahfhj",
+      "price": 1000,
+      "setDate": "2022-10-14",
+      "id": 14
+    }
+  ]
+}
